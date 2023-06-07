@@ -11,6 +11,13 @@ a elección entre "mi piace" y "mi piaci" depende de si estás hablando de una a
 
 artisti = artistas
 
+bella / bello = guapa / guapo
+
+puerta =porta
+
+las puertas = le porte
+
+piu = mas
 
 
 
