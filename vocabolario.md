@@ -42,3 +42,5 @@ No estoy = Non sono.
 
  Las llaves = Le chiavi
  La mesa = Il tavolo.
+ uccelo = pájaro  o ave// uchello
+albero = árbol
