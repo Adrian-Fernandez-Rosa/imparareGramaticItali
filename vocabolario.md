@@ -20,6 +20,7 @@ las puertas = le porte
 piu = mas
 
 
+Farfalla = mariposa;
 
 
 
