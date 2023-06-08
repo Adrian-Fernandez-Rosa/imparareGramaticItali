@@ -31,3 +31,14 @@ mela = manzana
 fini = termina
 ricetta = Receta
 riccette = recetas
+d'accordo = de acuerdo.
+No estoy = Non sono.
+
+* important:
+ Éste / ésto = questo.
+ Sobre eso = su questo.
+ 
+ <hr>
+
+ Las llaves = Le chiavi
+ La mesa = Il tavolo.
