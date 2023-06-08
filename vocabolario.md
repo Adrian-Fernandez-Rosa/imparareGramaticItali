@@ -20,8 +20,14 @@ las puertas = le porte
 piu = mas
 
 
-Farfalla = mariposa;
+Farfalla = mariposa
 
+insieme = Juntos
+Caja = Scatola
 
-
-
+In = en
+Nella = En la
+mela = manzana
+fini = termina
+ricetta = Receta
+riccette = recetas

@@ -15,3 +15,37 @@
 | Loro vengono | ellos vienen |
 
 </div>
+
+|             | 
+|-------------|
+| Io sono   |
+| Tu sei    |
+| Lei è  | 
+| Lui è   | 
+| Noi siamo | 
+| Voi siete  | 
+| Loro sono | 
+
+
+abitare es habitar , también es sinonimo de vivir (aunque existe el verbo vivire, habitare se usa para decir que tiene su vida hecha, es su hogar)
+
+|  abitare    | 
+|-------------|
+| Io abito   |
+| Tu abiti    |
+| Lei abita  | 
+| Lui abita   | 
+| Noi abitiamo | 
+| Voi abitiate  | 
+| Loro abitano | 
+
+
+|  vivire    | 
+|-------------|
+| Io vivo  |
+| Tu vivi   |
+| Lei vive  | 
+| Lui vive  | 
+| Noi viviamo | 
+| Voi vivete  | 
+| Loro vivono | 
