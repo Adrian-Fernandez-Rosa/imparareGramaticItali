@@ -1,5 +1,7 @@
 
 # 3 grupos de verbos parte 1
+* Per lei per lui.
+
 
 | Coniugazione | Verbo   |
 |--------------|---------|
@@ -27,3 +29,48 @@ loro comprano
 | Noi compriamo | 
 | Voi comprate  | 
 | Loro comprano | 
+
+
+Flores = Fiori
+Las flores = I fiori.
+Ella compra flores = Lei compra fiori.
+
+
+Marzia Compra las flores en el mercado =
+Marzia compra I fiori nel mercato.
+
+Para mi = per me.
+
+Para ella/ Para él
+Per lei/ Per lui
+
+Elio no compra las flores para él, Elio compra las flores en el mercado 
+para ella
+
+Elio non compra I fiori per Lui, Elio compra I fiori nel mercato per lei.
+
+|  Amare  | 
+|-------------|
+| Io Amo |
+| Tu Ami |
+| Lei ama  | 
+| Lui ama  | 
+| Noi amiamo | 
+| Voi amate  | 
+| Loro amano | 
+
+Yo amo que Juana compra flores para mi
+
+Amo che Juana compra Fiori per me.
+
+Literatura = letteratura.
+La literatura = La letteratura.
+
+María ama la letteratura.
+
+La literatura y el arte = La letteratura e l'arte.
+
+María ama la leterratura e l'arte.
+
+verbos Mangiare , Camminare, Parlare, Viaggiare, studiare.
+

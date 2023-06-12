@@ -44,3 +44,9 @@ No estoy = Non sono.
  La mesa = Il tavolo.
  uccelo = pájaro  o ave// uchello
 albero = árbol
+Flores = Fiori
+Flor =  Fiore
+mercato = mercado
+Literatura = letteratura.
+La literatura = La letteratura.
+

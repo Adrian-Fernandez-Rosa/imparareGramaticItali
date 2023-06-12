@@ -60,3 +60,14 @@ abitare es habitar , también es sinonimo de vivir (aunque existe el verbo vivir
 | Noi compriamo | 
 | Voi comprate  | 
 | Loro comprano | 
+
+|  Amare  | 
+|-------------|
+| Io Amo |
+| Tu Ami |
+| Lei ama  | 
+| Lui ama  | 
+| Noi amiamo | 
+| Voi amate  | 
+| Loro amano | 
+
