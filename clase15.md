@@ -72,5 +72,18 @@ La literatura y el arte = La letteratura e l'arte.
 
 María ama la leterratura e l'arte.
 
+
 verbos Mangiare , Camminare, Parlare, Viaggiare, studiare.
+parteneces al grupo 2 terminados en ERE (are, ere, ire)
+
+|  Vendere  | 
+|-------------|
+| Io vendo |
+| Tu vendi |
+| Lei vende  | 
+| Lui vende  | 
+| Noi vendiamo | 
+| Voi vendete | 
+| Loro vendono | 
+
 
