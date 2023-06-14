@@ -86,4 +86,23 @@ parteneces al grupo 2 terminados en ERE (are, ere, ire)
 | Voi vendete | 
 | Loro vendono | 
 
+María vende manzanas en el mercado.
+
+María vende mele nel mercato.
+
+Ellos venden libros en el mercado.
+
+Loro vendono libri nel mercato
+
+# verbo RIPETERE repetir
+
+|  ripetere  | 
+|-------------|
+| Io ripeto |
+| Tu ripeti |
+| Lei ripete | 
+| Lui ripete  | 
+| Noi ripitiano | 
+| Voi ripetete | 
+| Loro ripetono | 
 
