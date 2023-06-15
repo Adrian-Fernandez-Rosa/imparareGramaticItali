@@ -42,3 +42,16 @@ Pam non capisce la situazione.
 Non capisco, puoi ripetere la frase.
 no entiendo, puedes repetir la frase.
 
+Non capisco perché Pam ripete la frase.
+No entiendo porque Pam repite la frase.
+
+Capisci perche Jim e Pam vendono i libri?
+Entiendes porque Jim y Pam venden los libros?
+
+La mela è sul tavolo.
+
+Scusa, non capisco, puoi riperete la frase?
+
+La mela è sul tavolo. (La manzana esta en su mesa)
+
+va bene
