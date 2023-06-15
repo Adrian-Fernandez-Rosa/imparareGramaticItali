@@ -52,6 +52,17 @@ La mela è sul tavolo.
 
 Scusa, non capisco, puoi riperete la frase?
 
-La mela è sul tavolo. (La manzana esta en su mesa)
+La mela è sul tavolo. (La manzana esta sobre la mesa)
 
 va bene
+
+conversacion
+
+L' uccero è sull'albero. El pajaro esta sobre el arbol
+
+Scusa non Capisco molo bete l'italiano, puoi ripetere la frase?
+
+Con piacere. 
+L'uccello è sull'albero.
+
+L'uccello è molto cariño. El pajaro es muy bonito
