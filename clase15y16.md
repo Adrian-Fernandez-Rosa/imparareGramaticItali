@@ -102,7 +102,31 @@ Loro vendono libri nel mercato
 | Tu ripeti |
 | Lei ripete | 
 | Lui ripete  | 
-| Noi ripitiano | 
+| Noi ripetiano | 
 | Voi ripetete | 
 | Loro ripetono | 
 
+
+La frase = La fráse (apenas atenuación).
+
+Ella repite la frase
+
+Lei ripete la frase.
+
+Puoi = Puedes
+
+Puoi ripetere la frase?
+
+Ripeti dopo dime.
+Repite después de mi.
+
+conversacion.
+
+
+Ciao, come stai!.
+Benissimo! E tu?.
+
+Perfettamente, ho un lovoro fantastico.
+Puoi ripetere per favore?
+
+Puoi ripetere la frase per favore.

@@ -49,4 +49,7 @@ Flor =  Fiore
 mercato = mercado
 Literatura = letteratura.
 La literatura = La letteratura.
+Situazione = situación
+
+
 

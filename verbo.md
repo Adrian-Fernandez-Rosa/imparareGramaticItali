@@ -81,3 +81,27 @@ abitare es habitar , también es sinonimo de vivir (aunque existe el verbo vivir
 | Noi vendiamo | 
 | Voi vendete | 
 | Loro vendono | 
+
+
+|  Finire | TERMINAR
+|-------------|
+| Io finisco | // pronunciacion similar a finiyo
+| Tu finisci |
+| Lei finisce  | 
+| Lui finisce  | 
+| Noi finiamo | 
+| Voi finite | 
+| Loro finiscono | 
+
+
+VERBO CAPIRE = ENTENDER
+
+|  Capire | ENTENDER
+|-------------|
+| Io capisco | 
+| Tu capisci |
+| Lei capisce  | 
+| Lui capisce | 
+| Noi capiamo | 
+| Voi capite| 
+| Loro capiscono | 
