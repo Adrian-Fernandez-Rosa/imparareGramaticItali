@@ -31,3 +31,14 @@ Scusa, non capisco.
 Scusa, non capisco l'italiano.
 
 La situación. = La situazione.
+
+
+ellos venden libro en el mercado
+loro vendono libri nel mercato.
+
+Pam no entiende la situación.
+Pam non capisce la situazione.
+
+Non capisco, puoi ripetere la frase.
+no entiendo, puedes repetir la frase.
+
