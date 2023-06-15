@@ -50,6 +50,13 @@ mercato = mercado
 Literatura = letteratura.
 La literatura = La letteratura.
 Situazione = situación
+testa = cabeza
+fuerte = forte.
+Scacco mato = jaque mate.
+ojos = occhi
+ojo = occhio
+La ceja = il sopracciglio
+Las cejas = le soppracciglia.
 
 
 
