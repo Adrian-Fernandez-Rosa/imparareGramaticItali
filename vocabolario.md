@@ -57,6 +57,22 @@ ojos = occhi
 ojo = occhio
 La ceja = il sopracciglio
 Las cejas = le soppracciglia.
+La nariz = Il naso
+Los dientes = I denti
+Lengua = lingua
+Menton = mento
+cuello = collo (il collo)
+Cara(rostro) = viso
+Pecho = petto
+Abdomen = Pancia //pancha
+Brazo = braccio // bracho
+Codo = gomito
 
+La pierna/ las piernas
+La gamba / le gambe.
+Rodilla / Rodillas = il ginocchio / le ginocchia.
 
-
+El dedo / los dedos 
+Il dito / le dita.
+Pie = piede
+pies = piedi
