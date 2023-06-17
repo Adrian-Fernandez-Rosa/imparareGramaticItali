@@ -76,3 +76,4 @@ El dedo / los dedos
 Il dito / le dita.
 Pie = piede
 pies = piedi
+.
