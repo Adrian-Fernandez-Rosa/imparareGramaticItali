@@ -77,3 +77,4 @@ Il dito / le dita.
 Pie = piede
 pies = piedi
 .
+.
