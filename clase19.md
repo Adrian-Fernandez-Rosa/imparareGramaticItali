@@ -77,3 +77,16 @@ Dicembre - Diciembre / dichembre
 
 
 
+# Fechas
+
+Il mio compleanno è il 26 marzo
+Mi cumpleaños es el 26 de marzo
+
+2017 Duemiladiciassette
+2023 DuemilaVentitre
+1992 milaNovecentoNovantaDue
+1990 Mila Novecento
+
+Mercoledì 20 novembre 2017
+
+Il mio compleanno è il ventotto di febbraio
