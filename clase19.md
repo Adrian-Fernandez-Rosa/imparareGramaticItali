@@ -31,9 +31,48 @@ Ciao, oggi è lunedì
 - Oggi è martedì, una bella mattina.
 
 
-Martedì sono andata dal medico, mentre verdi ho cenato al ristorante.
+Martedì sono andata dal medico, mentre vernerdi ho cenato al ristorante.
 
-Martes Fuí al medico, mientras que el viernes cene al restorantes
+Martes Fuí al medico, mientras que el viernes cene en el restorante
+
+La domenica mangio sempre molto,
+ma di lunedì vado in palestra
+
+El domingo Como siempre mucho,
+Pero cada lunes voy al gimnasio.
+
+vado = voy
+Palestra = gimnasio
+
+
+ma di lunedì vado in palestra
+
+lleva articulo antes de lunedi 
+para aclarar que fue ocasional
+si no es ocasional no va el di
+
+Il giovedi mangio pizza
+
+los jueves como pizza.
+otra traduccion cada jueves como pizza
+
+Giovedi ho mangiato pizza
+El Jueves he comido pizza (RAE)
+
+# meses del año
+
+Gennaio - Enero  / yenaio
+Febbraio - Febrero 
+Marzo - Marzo (mejor pronunciacion con z)
+Aprile - Abril
+Maggio - Mayo , Mayo (marcado yy)
+Giugno - Junio / yunio
+Luglio - Julio
+Agosto - Agosto
+Settembre - Septiembre
+Ottobre - ottobre
+Novembre - Noviembre.
+Dicembre - Diciembre / dichembre
 
 
 
