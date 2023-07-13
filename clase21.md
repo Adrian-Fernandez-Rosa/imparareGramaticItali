@@ -90,3 +90,17 @@ noi stiamo
 voi state 
 loro stanno
 
+YO ESTOY DURMIENDO = 
+Io sto Dormendo.
+
+(agregacion mioa: 
+sto dormendo a quell'ora)
+
+Paolo está leyendo
+Paolo sta leggendo
+
+# verbo aprender no es studiare
+
+imparare -> Imparando
+aprender -> Aprendiendo
+
