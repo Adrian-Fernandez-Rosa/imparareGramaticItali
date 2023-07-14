@@ -104,3 +104,42 @@ Paolo sta leggendo
 imparare -> Imparando
 aprender -> Aprendiendo
 
+recordar Verbo stare + gerundio
+
+Estás aprendiendo
+Stai imparando (tu no yo)
+
+Estas aprendiendo Italiano
+Stai imparando l'italiano.
+
+Ellos están aprendiendo español
+y Ella esta aprendiendo Italiano
+
+Loro Stanno imparando lo Spagnolo
+e lei sta imparando l'italiano.
+
+--
+
+Stiamo ballando, ma loro stanno mangiando
+
+Estamos Bailando, pero ellos estan comiendo.
+
+Non sto dormendo.
+No estoy dormiendo.
+
+No estoy durmiendo muy bien.
+No Sto dormendo molto bene.
+
+Stai dormendo bene?
+Estas durmiendo Bien?
+
+Ciao, come stai?
+
+Molto bene Grazie e tu?
+
+Stai facendo giardinaggio? (jardineria) /yardinayo
+Si, sto lavorando
+
+va bene, Marzia sta mangiando bene?
+Piú o meno, ma ora sta dormendo.
+
