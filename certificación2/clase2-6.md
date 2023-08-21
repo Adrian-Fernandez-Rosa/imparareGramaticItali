@@ -18,5 +18,6 @@ A giugno visiterò l'Italia. (visitare)
 A dicembre fa molto freddo.
 Ad agosto fa molto caldo.
 Alla fine del mese di marzo inizia la primavera.
-Arriverò all'inizio del mese di giugno.
+Arriverò all'inizio del mese di giugno. LLegare
+
 
