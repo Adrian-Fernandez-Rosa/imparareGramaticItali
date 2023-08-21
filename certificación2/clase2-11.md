@@ -27,3 +27,13 @@ El pomeriggio
 15:30 = sono la 3 y mezza
 15:15 = sono le tre e un quarto.
 
+15:40 = sono le quattro meno venti.
+
+# Preguntar la hora
+
+che ora è?
+
+che ora è esattamente?
+
+Che ore sono?
+
