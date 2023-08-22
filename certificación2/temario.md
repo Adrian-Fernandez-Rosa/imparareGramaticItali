@@ -9,3 +9,9 @@ animales y sus sonidos
 
 [clase 2-11](clase2-11.md)
 La hora.
+
+[clase 2-12](clase2-12.md)
+La comida.
+
+[clase 2-13](clase2-13.md)
+Partes del cuerpo.
