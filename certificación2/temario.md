@@ -15,3 +15,7 @@ La comida.
 
 [clase 2-13](clase2-13.md)
 Partes del cuerpo.
+
+[clase 2-14](clase2-14.md)
+El clima en italiano.
+
