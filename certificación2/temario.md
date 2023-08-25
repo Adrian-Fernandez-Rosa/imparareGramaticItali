@@ -21,3 +21,7 @@ El clima en italiano.
 
 [clase 2-15](clase2-15.md)
 Expresiones italianas.
+
+[clase 2-16](clase2-16.md)
+conjugacion verbo hablar en italiano.
+
