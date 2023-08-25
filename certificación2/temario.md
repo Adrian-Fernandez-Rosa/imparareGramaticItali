@@ -19,3 +19,5 @@ Partes del cuerpo.
 [clase 2-14](clase2-14.md)
 El clima en italiano.
 
+[clase 2-15](clase2-15.md)
+Expresiones italianas.
